@@ -1,3 +1,4 @@
+
 # awesome-benchmarks
 
 [Polybench](http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/)
@@ -7,15 +8,16 @@
 [Parboil](http://impact.crhc.illinois.edu/parboil/parboil.aspx)
 
 [GMPBench](https://gmplib.org/gmpbench.html)
-[Spec2006]
 
- Lonestar
+[Spec2006](https://www.spec.org/cpu2006/)
+
+[Lonestar](http://iss.ices.utexas.edu/?p=projects/galois/lonestar)
  
- NUPAR
+[NUPAR](https://github.com/fninaparavecino/nupar-bench)
  
- SHOC 
+[SHOC](https://github.com/vetter/shoc/wiki)
  
- OpenFOAM
+[OpenFOAM]()
 
 ASC proxy applications 
 
@@ -27,3 +29,12 @@ MAGMA (linear algebra solvers)
 VALAR
 
 [pChase](https://github.com/maleadt/pChase)
+
+[Nu-MineBench](http://cucis.ece.northwestern.edu/projects/DMS/MineBenchDownload.html)
+Machine learning workloads
+
+[PARSEC](http://parsec.cs.princeton.edu/)
+
+[IOZone](http://www.iozone.org/)
+
+[NAS](https://www.nas.nasa.gov/publications/npb.html)
