@@ -25,3 +25,5 @@ libraries)
 MAGMA (linear algebra solvers)
 
 VALAR
+
+[pChase](https://github.com/maleadt/pChase)
