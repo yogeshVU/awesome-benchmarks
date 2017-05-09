@@ -1,4 +1,6 @@
 
+
+
 # awesome-benchmarks
 
 [Polybench](http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/)
@@ -19,12 +21,18 @@
  
 [OpenFOAM]()
 
+[MOSBENCH](https://pdos.csail.mit.edu/archive/mosbench/)
+
+[vBench](https://github.com/sslab-gatech/vbench)
+
+[MobileBench](https://mobilebench.engineering.asu.edu/)
 ASC proxy applications 
 
 cuDNN (deep learning
 libraries) 
 
 MAGMA (linear algebra solvers)
+
 
 VALAR
 
