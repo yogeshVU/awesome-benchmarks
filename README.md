@@ -23,3 +23,5 @@ cuDNN (deep learning
 libraries) 
 
 MAGMA (linear algebra solvers)
+
+VALAR
