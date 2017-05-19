@@ -42,6 +42,7 @@
 ### Compute
 - [BOTS](https://github.com/bsc-pm/bots)
 - [IMSuite](http://www.cse.iitm.ac.in/~krishna/imsuite/)
+- [STAMP](https://github.com/kozyraki/stamp)
 
 ### Network
 
