@@ -40,8 +40,8 @@
 ### GPU
 - [N-Body]()
 ### Compute
--[BOTS](https://github.com/bsc-pm/bots)
--[IMSuite](http://www.cse.iitm.ac.in/~krishna/imsuite/)
+- [BOTS](https://github.com/bsc-pm/bots)
+- [IMSuite](http://www.cse.iitm.ac.in/~krishna/imsuite/)
 
 ### Network
 
